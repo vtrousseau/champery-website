@@ -1,10 +1,21 @@
-#apartment, #contact-form {
-		background-color: #a4a8ad;
-		padding-bottom: 5em;
+#contact-form, #equipment {
+		background-color: #c9cacc;
+		padding-bottom: 2.5em;
 }
 
-#contact-form {
-		padding-top: 5em;
+#apartment, #contact-form, #situation {
+		background-color: white;
+		padding-bottom: 2.5em;
+}
+
+#contact-form, #details, #equipment, #situation {
+		padding-top: 2.5em;
+}
+
+#photos {
+	background-color: #303030;
+	padding-top: 2.5em;
+	padding-bottom: 2.5em;
 }
 
 .intro-apartment {
